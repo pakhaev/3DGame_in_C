@@ -1,0 +1,16 @@
+R 1070 840
+NO textures/redbrick.xpm
+SO textures/green_tex.xpm
+WE textures/new_xpm.xpm
+EA textures/write_tex.xpm
+S textures/barrel.xpm
+K textures/pillar.xpm
+F textures/floor.xpm
+C textures/ceiling.xpm
+
+111111111111111111
+100000000000200001
+130000000000000001
+100000000000000021
+1000000000000E0001
+111111111111111111
